@@ -2,7 +2,9 @@ Rick and Morty Wiki Application
 
 A dynamic web encyclopedia for Rick and Morty characters, powered by the Rick and Morty API. This project presents characters in a responsive grid with pagination, detailed views, and a real-time clock in the footer. Built using HTML, CSS, and JavaScript, the application demonstrates API integration, dynamic DOM manipulation, and interactive navigation.
 
-
+** DEMO Link
+  https://regal-sprinkles-c3dbf8.netlify.app/
+  
 * Features
 
 ** Character Gallery (Main Page)
