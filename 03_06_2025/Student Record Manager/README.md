@@ -4,7 +4,7 @@ This is a basic web application built with HTML, CSS, and JavaScript that allows
 
 ## Live Demo
 
-Live Site: [Your Live Link Here]
+Live Site: https://stirring-monstera-c88d5c.netlify.app/
 
 ## Features
 
@@ -49,4 +49,4 @@ This project can be deployed using platforms like Netlify or Vercel. Upload all 
 
 ## GitHub Repository
 
-GitHub: [Your Repository Link Here]
+GitHub: https://github.com/SanjayAsokan/Masai-2/tree/13e63cb4fee62112c8387e0083715b86b026c397/03_06_2025/Student%20Record%20Manager
